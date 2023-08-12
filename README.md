@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ompatil0851
-- 👀 I’m interested in programming, astrophysics, philosophy and reading books.
-- 🌱 I’m currently learning IT in AITR
+- 👋 Hi, I’m Om Pail
+- 👀 I’m interested in Programming, Philosophy, astronomy and astrophysics.
+- 🌱 I’m currently learning Information Technology Engineering at Acropolis Institute of Technology and Research,Indore,MP
 - 📫 How to reach me..
-- https://www.instagram.com/mr_ompatil/
+- Mail= Ompatil10481@gmail.com
+- https://www.instagram.com/__ompatil/
 - https://twitter.com/mr_ompatil21
 
 <!---
